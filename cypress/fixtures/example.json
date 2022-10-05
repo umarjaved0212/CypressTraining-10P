@@ -1,0 +1,7 @@
+{
+  "firstname": "Test firstname",
+  "lastname": "Test lastname",
+  "email": "hello@cypress.io",
+  "url": "http://automationpractice.com/index.php?controller=authentication&back=my-account",
+  "password": "Test@123"
+}
